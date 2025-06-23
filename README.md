@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I'm Morgan Hodgson
 
-<!--
-**Mogywa/Mogywa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final-year Networking student at Wintec (Hamilton, NZ)  
+🔧 CCNA in progress | CompTIA A+ & Network+ certified  
+☁️ Passionate about Networking, Cloud Infrastructure & Cybersecurity
 
-Here are some ideas to get you started:
+## 🔍 About Me
+- 🧠 Top-ranked in cybersecurity case study (Heartbleed exploit demonstration)
+- ⚙️ Built full enterprise network designs with Cisco technologies (Packet Tracer + real gear)
+- ☁️ Deployed business-grade infrastructure in Microsoft Azure using RBAC and VM automation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Featured Projects
+- [CCNA Enterprise Network Design](https://github.com/Mogywa/ccna-network-design)
+- [Azure Virtual Network & RBAC Demo](https://github.com/Mogywa/azure-cloud-infra)
+- [Heartbleed Bug Ethical Hack Case Study](https://github.com/Mogywa/heartbleed-demo)
+
+Let's connect on [LinkedIn](https://www.linkedin.com/in/morgan-hodgson-05aa13320/)
