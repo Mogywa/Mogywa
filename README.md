@@ -11,7 +11,6 @@
 
 ## 📂 Featured Projects
 - [CCNA Enterprise Network Design](https://github.com/Mogywa/ccna-network-design)
-- [Azure Virtual Network & RBAC Demo](https://github.com/Mogywa/azure-cloud-infra)
-- [Heartbleed Bug Ethical Hack Case Study](https://github.com/Mogywa/heartbleed-demo)
+- [Heartbleed Bug Ethical Hack Case Study](https://github.com/Mogywa/heartbleed2025-demo)
 
 Let's connect on [LinkedIn](https://www.linkedin.com/in/morgan-hodgson-05aa13320/)
