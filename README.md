@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Morgan Hodgson
 
+!!## DISCLAIMER THIS PAGE IS AN ONGOING WORK IN PROGRESS, WILL CONTINUE UPLOADING MY WORK ##!!
+
 🎓 Final-year Networking student at Wintec (Hamilton, NZ)  
 🔧 CCNA in progress | CompTIA A+ & Network+ certified  
 ☁️ Passionate about Networking, Cloud Infrastructure & Cybersecurity
